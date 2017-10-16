@@ -4,9 +4,12 @@
     "authors": [
         {
             "name": "York",
-            "email": "yorkshp@gmail.com"
+            "email": "yorkshp@gmail.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+		"justyork/yii2-multilanguage": "dev-master"
+	}
 }
