@@ -1,0 +1,12 @@
+{
+    "name": "justyork/yii2-base",
+    "description": "Base package for cms",
+    "authors": [
+        {
+            "name": "York",
+            "email": "yorkshp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
