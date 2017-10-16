@@ -11,5 +11,10 @@
     "minimum-stability": "dev",
     "require": {
 		"justyork/yii2-multilanguage": "dev-master"
-	}
+	},
+    "autoload": {
+        "psr-0": {
+            "justyork\\yii2_base":   "src/"
+        }
+    }
 }
